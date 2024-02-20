@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sa1tama
 - 👀 I’m interested in music, game making, youtube stuff, gaming and more.
-- 🌱 I’m currently learning programming on multiple languages, for example: JavaScript, Python & more.
+- 🌱 I’m currently learning programming on multiple languages, for example: Java, JavaScript, Python & more.
 - 💞️ I’m currently not looking to collaborate. But maybe soon...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I make music on Soundcloud and i am releasing songs on Spotify. My artist name is: CrazyKryz13
